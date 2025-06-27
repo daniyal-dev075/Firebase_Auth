@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022322465805",
+    "project_id": "logintask-3defb",
+    "storage_bucket": "logintask-3defb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022322465805:android:8b19879c9501db56610944",
+        "android_client_info": {
+          "package_name": "com.example.flutter_authn_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaf4FPMdTZPZ3ET-NXJ_46PcUlBqMblZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
